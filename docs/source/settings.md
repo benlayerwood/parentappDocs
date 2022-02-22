@@ -8,6 +8,7 @@ Bei der Einstellungsmöglichkeit **Altersgruppe** kann zwischen verschiedenen Ph
 * Erstes Jahr
 * Kleinkind
 * Alle
+
 Diese Einstellung erlaubt es, die Inhalte nach den eigenen individuellen Bedürfnisse anzupassen. 
 Ein **Familienzentrum** kann als Favorit ausgewählt werden.
 Dieses wird dann in der [Kalender](calendar)-Ansicht zentriert angezeigt und kann dort auch modifiziert werden.

@@ -1,6 +1,6 @@
 # Karten
 
-Die Kartenfunktion zeigt in der oberen Hälfte alle Familienzentren in einer Kartenansicht an.
+Die Kartenfunktion zeigt in der oberen Hälfte **alle Familienzentren** in einer Kartenansicht an.
 Die untere Hälfte listet alle Familienzentren auf und enthält drei weitere Buttons.
 
 ## Kartenansicht
