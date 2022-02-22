@@ -30,15 +30,16 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_theme = 'classic'
+html_theme = 'alabaster'
 #
 html_logo = 'images/elternapp_logo_200.png'
 
 html_theme_options = {
-    "headfont": "futara",
-    "relbarbgcolor": "#222222",
-    "footerbgcolor": "#222222",
-    "sidebarbgcolor": "dimgrey"
+    'font_family': 'sans-serif',
+    'body_text': '#292929',
+    'head_font_family': 'helvetica',
+    'relbar_border': '#292929',
+    'footnote_border': '#292929',
 }
 
 # -- Options for EPUB output

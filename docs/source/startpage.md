@@ -1,7 +1,7 @@
 # Startseite
 
 ## Aufbau
-Die Startseite ist zweigeteilt: In der oberen Hälfte ist ein [Überblick](#überblick) über die Kategorien Termine, Nachrichten und Todos zu sehen, während die untere Hälfte [Buttons](#buttons) zu allen Kategorien beinhaltet.
+Die Startseite ist zweigeteilt: In der oberen Hälfte ist ein **Überblick** über die Kategorien Termine, Nachrichten und Todos zu sehen, während die untere Hälfte **Buttons** zu allen Kategorien beinhaltet.
 
 ## Überblick
 In der Überblicksansicht ist in drei Tabs aufgeteilt.
