@@ -4,7 +4,7 @@ Die App ist zurzeit auf Android verfügbar.
 
 Die Eltern-App bietet Funktionen zum Auffinden der Familienzentren, Kontaktdaten der Mitarbeiter, Termine in einem Kalender, Verweise auf externe Angebote und viele weitere Features.
 
-![Elternapp-Screenshot](/images/elternapp_screenshot_250.png)
+![Elternapp-Screenshot](/images/elternapp_screenshot_300.png)
 
 # Inhalt
 
