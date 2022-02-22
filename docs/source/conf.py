@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'ElternApp'
+copyright = '2022, Benjamin Schichtholz'
+author = 'Benjamin Schichtholz'
 
 release = '0.1'
 version = '0.1.0'
@@ -17,6 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'myst_parser',
 ]
 
 intersphinx_mapping = {
@@ -29,7 +30,16 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'classic'
+#
+html_logo = 'images/elternapp_logo_200.png'
+
+html_theme_options = {
+    "headfont": "futara",
+    "relbarbgcolor": "#222222",
+    "footerbgcolor": "#222222",
+    "sidebarbgcolor": "dimgrey"
+}
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
